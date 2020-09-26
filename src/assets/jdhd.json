@@ -1,0 +1,184 @@
+{
+    "products": {
+        "1": {
+            "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+            "img": "pizza_pep.png",
+            "name": "Pepperoni",
+            "price": 20,
+            "type": "pizza"
+        },
+        "2": {
+            "desc": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+            "img": "pizza_veggie.png",
+            "name": "Veggie",
+            "price": 25,
+            "type": "pizza"
+        },
+        "3": {
+            "desc": "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "img": "salat_meat.png",
+            "name": "Meatzza",
+            "price": 25,
+            "type": "pizza"
+        },
+        "4": {
+            "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+            "img": "pizza_hawai.png",
+            "name": "Hawai",
+            "price": 25,
+            "type": "pizza"
+        },
+        "5": {
+            "desc": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+            "img": "pizza_bbq.png",
+            "name": "BBQ",
+            "price": 25,
+            "type": "pizza"
+        },
+        "6": {
+            "desc": "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "img": "pizza_deluxe.png",
+            "name": "Deluxe",
+            "price": 25,
+            "type": "pizza"
+        },
+        "7": {
+            "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+            "img": "burger_deluxe.png",
+            "name": "Deluxe",
+            "price": 25,
+            "type": "burgers"
+        },
+        "8": {
+            "desc": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+            "img": "burger_veggie.png",
+            "name": "Veggie",
+            "price": 25,
+            "type": "burgers"
+        },
+        "9": {
+            "desc": "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "img": "burger_chicken.png",
+            "name": "Chicken",
+            "price": 25,
+            "type": "burgers"
+        },
+        "10": {
+            "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+            "img": "salat_nuts.png",
+            "name": "Nuts",
+            "price": 25,
+            "type": "salat"
+        },
+        "11": {
+            "desc": "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "img": "salat_meat.png",
+            "name": "Meat",
+            "price": 25,
+            "type": "salat"
+        },
+        "12": {
+            "desc": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+            "img": "salat_chicken.png",
+            "name": "Chicken",
+            "price": 25,
+            "type": "salat"
+        },
+        "13": {
+            "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium unde omnis iste natus error sit",
+            "img": "desert_choco.png",
+            "name": "ChocoBomb",
+            "price": 25,
+            "type": "dessert"
+        },
+        "14": {
+            "desc": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. ",
+            "img": "desert_cream.png",
+            "name": "Ice cream",
+            "price": 25,
+            "type": "dessert"
+        },
+        "15": {
+            "desc": "Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "img": "desert_deluxe.png",
+            "name": "Deluxe",
+            "price": 25,
+            "type": "dessert"
+        },
+        "16": {
+            "desc": "Open momo",
+            "img": "open momo.jpg",
+            "name": "open momo",
+            "price": 250,
+            "type": "momo"
+        },
+        "17": {
+            "desc": "deep fried momos",
+            "img": "deep fried, crispy hot momos.jpg",
+            "name": "Fried Momo",
+            "price": 250,
+            "type": "momo"
+        },
+        "18": {
+            "desc": "Jhol momo",
+            "img": "Jhol-Momo.jpg",
+            "name": "Jhol Momo",
+            "price": 250,
+            "type": "momo"
+        },
+        "19": {
+            "desc": "kothey momo",
+            "img": "kothey_0.jpg.jpg",
+            "name": "kothey Momo",
+            "price": 250,
+            "type": "momo"
+        },
+        "20": {
+            "desc": "paneer momo",
+            "img": "paneer.jpg",
+            "name": "Paneer Momo",
+            "price": 250,
+            "type": "momo"
+        },
+        "21": {
+            "desc": "Tandoori Momo",
+            "img": "Tandoori-momos-served-best-with-mint-chutney.jpg",
+            "name": "Jhol Momo",
+            "price": 250,
+            "type": "momo"
+        },
+        "22": {
+            "desc": "Chilly Momo",
+            "img": "Momo101.jpg",
+            "name": "Chilly Momo",
+            "price": 250,
+            "type": "momo"
+        },
+        "23": {
+            "desc": "Buff Chowmein",
+            "img": "buff chowmein.jpg",
+            "name": "Buff Chowmein",
+            "price": 250,
+            "type": "Chowmein"
+        },
+        "24": {
+            "desc": "Chicken Chowmein",
+            "img": "chicken chowmein.jpg",
+            "name": "Chicken Chowmein",
+            "price": 250,
+            "type": "Chowmein"
+        },
+        "25": {
+            "desc": "Veg Chowmein",
+            "img": "veg chowmein.jpg",
+            "name": "Veg Chowmein",
+            "price": 250,
+            "type": "Chowmein"
+        }
+    },
+    "users": {
+        "-LJVJNFaRnLVMW5mf83f": {
+            "email": "francis@gmail.com"
+        }
+    }
+}
